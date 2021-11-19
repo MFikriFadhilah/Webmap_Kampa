@@ -3,7 +3,7 @@
 const dataLocation = 'data/LPHA_Kampa.csv';
 
 // Map's initial center, and zoom level
-const mapCenter = [0.329401, 1001.214294];
+const mapCenter = [0.329401, 101.214294];
 const mapZoom = 12;
 
 // Marker icon height and width
